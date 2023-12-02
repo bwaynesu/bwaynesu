@@ -51,7 +51,7 @@
 
 <div>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="50%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=snoopyuj&row=3&column=3&theme=onedark&no-frame=true"/>
+        <img width="45%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=snoopyuj&row=2&column=4&theme=onedark&no-frame=true"/>
     </a>    
 </div>
 
@@ -65,28 +65,28 @@ TODO
 </tr>
 </table>-->
 
-<br /><br />
+<br />
 
 <p id="socialIcons" align="center">
-    <a href="mailto:bwaynesu@gmail.com" alt="bwaynesu@gmail.com">
+    <a href="mailto:bwaynesu@gmail.com" alt="bwaynesu@gmail.com" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-✉️Email-c46a4c?style=flat-square&logo=email" />
     </a>
-    <a href="https://portaly.cc/bwaynesu" alt="Portaly">
+    <a href="https://portaly.cc/bwaynesu" alt="Portaly" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-Portaly-862a83?style=flat-square&logo=portaly" />
     </a>
-    <a href="https://linkedin.com/in/wayne-su-94804186" alt="LinkedIn">
+    <a href="https://linkedin.com/in/wayne-su-94804186" alt="LinkedIn" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-LinkedIn-437ebc?style=flat-square&logo=linkedin" />
     </a>
-    <a href="https://www.cakeresume.com/me/bwaynesu" alt="CakeResume">
+    <a href="https://www.cakeresume.com/me/bwaynesu" alt="CakeResume" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-CakeResume-13ab67?style=flat-square&logo=cakeresume" />
     </a>
-    <a href="https://medium.com/@bwaynesu" alt="Medium">
+    <a href="https://medium.com/@bwaynesu" alt="Medium" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" />
     </a>
-    <a href="https://bwaynesu.wordpress.com/" alt="WordPress">
+    <a href="https://bwaynesu.wordpress.com/" alt="WordPress" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-WordPress-0f8cc3?style=flat-square&logo=wordPress" />
     </a>
-    <a href="https://discord.com/" alt="DC:ike2799">
+    <a href="https://discord.com/" alt="DC:ike2799" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-DC%3A%0Aike2799-2530a2?style=flat-square&logo=discord" />
     </a>
 </p>
