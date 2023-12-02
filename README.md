@@ -14,7 +14,7 @@
   <tr>
     <td colspan="2" style="text-align: center">
       <a href="https://youtu.be/ucg_tkJpu4o">
-        <img height="200" alt="My Racing Projects" src="./pics/MyRacingProjects.jpg"/>
+        <img height="200" alt="My Racing Projects" src="Pics/MyRacingProjects.jpg"/>
       </a> <br/>
     </td>
   </tr>
