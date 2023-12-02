@@ -7,8 +7,8 @@
       📚 Sharing knowledge & experiences <br/>
       😸 Loving cats! <br/>
     </td>
-    <td style="vertical-align: top">
-      <img width="300" alt="hello!" src="Pics/BongoCat.gif" >
+    <td style="vertical-align: center">
+      <img height="200" alt="Hello!" src="Pics/BongoCat.gif" >
     </td>
   </tr>
 </table>
@@ -68,25 +68,25 @@ TODO
 <br />
 
 <p id="socialIcons" align="center">
-    <a href="mailto:bwaynesu@gmail.com" alt="bwaynesu@gmail.com" style="text-decoration:none;">
+    <a href="mailto:bwaynesu@gmail.com" alt="bwaynesu@gmail.com">
         <img src="https://img.shields.io/badge/-✉️Email-c46a4c?style=flat-square&logo=email" />
     </a>
-    <a href="https://portaly.cc/bwaynesu" alt="Portaly" style="text-decoration:none;">
+    <a href="https://portaly.cc/bwaynesu" alt="Portaly">
         <img src="https://img.shields.io/badge/-Portaly-862a83?style=flat-square&logo=portaly" />
     </a>
-    <a href="https://linkedin.com/in/wayne-su-94804186" alt="LinkedIn" style="text-decoration:none;">
+    <a href="https://linkedin.com/in/wayne-su-94804186" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-437ebc?style=flat-square&logo=linkedin" />
     </a>
-    <a href="https://www.cakeresume.com/me/bwaynesu" alt="CakeResume" style="text-decoration:none;">
+    <a href="https://www.cakeresume.com/me/bwaynesu" alt="CakeResume">
         <img src="https://img.shields.io/badge/-CakeResume-13ab67?style=flat-square&logo=cakeresume" />
     </a>
-    <a href="https://medium.com/@bwaynesu" alt="Medium" style="text-decoration:none;">
+    <a href="https://medium.com/@bwaynesu" alt="Medium">
         <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" />
     </a>
-    <a href="https://bwaynesu.wordpress.com/" alt="WordPress" style="text-decoration:none;">
+    <a href="https://bwaynesu.wordpress.com/" alt="WordPress">
         <img src="https://img.shields.io/badge/-WordPress-0f8cc3?style=flat-square&logo=wordPress" />
     </a>
-    <a href="https://discord.com/" alt="DC:ike2799" style="text-decoration:none;">
+    <a href="https://discord.com/" alt="DC:ike2799">
         <img src="https://img.shields.io/badge/-DC%3A%0Aike2799-2530a2?style=flat-square&logo=discord" />
     </a>
 </p>
