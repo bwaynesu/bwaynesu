@@ -7,8 +7,15 @@
       📚 Sharing knowledge & experiences <br/>
       😸 Loving cats! <br/>
     </td>
-    <td style="vertical-align: center">
+    <td style="text-align: center">
       <img height="200" alt="Hello!" src="Pics/BongoCat.gif" >
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center">
+      <a href="https://youtu.be/ucg_tkJpu4o">
+        <img height="200" alt="My Racing Projects" src="pics/MyRacingProjects.jpg"/>
+      </a> <br/>
     </td>
   </tr>
 </table>
