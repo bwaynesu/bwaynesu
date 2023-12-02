@@ -63,9 +63,6 @@
 
 ## ✒️ Medium Posts
 
-<table style="border:none">
-<tr>
-<td>
 <!-- BLOG-POST-LIST:START -->
 - [[TIL] Unity — Addressables.Release&lpar;&rpar; is not called in OnDestroy&lpar;&rpar;](https://medium.com/@bwaynesu/til-unity-addressables-release-is-not-called-in-ondestroy-d3474067f0c9?source=rss-5e4e7a64353------2)
 - [[Dev] Quick Overview of Unity Stateful UI Library](https://medium.com/@bwaynesu/dev-quick-overview-of-unity-stateful-ui-library-45e3ba58938d?source=rss-5e4e7a64353------2)
@@ -73,9 +70,6 @@
 - [[TIL] Unity — About Undo](https://medium.com/@bwaynesu/til-unity-about-undo-e6db0b36bc51?source=rss-5e4e7a64353------2)
 - [[閱讀筆記] 牧羊少年奇幻之旅 - 二十句語錄](https://medium.com/@bwaynesu/reading-notes-the-alchemist-ff1f23afdee9?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
-</td>
-</tr>
-</table>
 
 <!-- https://loading.io/background/m-wave/ -->
 
