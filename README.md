@@ -64,11 +64,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Tools] Everyday English Learning Resources](https://medium.com/@bwaynesu/tools-everyday-english-learning-resources-25fecd7073f0?source=rss-5e4e7a64353------2)
 - [[TIL] C# - Observe GC with Action Parameters in Various Scenarios](https://medium.com/@bwaynesu/til-c-observe-gc-with-action-parameters-in-various-scenarios-e323fc5a840b?source=rss-5e4e7a64353------2)
 - [[Dev] Unity StartCoroutine&lpar;&rpar; Extension: Execute Multiple Coroutines Simultaneously or Sequentially](https://medium.com/@bwaynesu/dev-unity-startcoroutine-extension-execute-multiple-coroutines-simultaneously-or-sequentially-91d3fb9e157c?source=rss-5e4e7a64353------2)
 - [[Tools] GitHub README Sync: Show Your Latest Medium Posts or YouTube Videos Automatically](https://medium.com/@bwaynesu/tools-github-readme-sync-show-your-latest-medium-posts-or-youtube-videos-automatically-97746cdf35e4?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Addressables.Release&lpar;&rpar; is not called in OnDestroy&lpar;&rpar;](https://medium.com/@bwaynesu/til-unity-addressables-release-is-not-called-in-ondestroy-d3474067f0c9?source=rss-5e4e7a64353------2)
-- [[Dev] Quick Overview of Unity Stateful UI Library](https://medium.com/@bwaynesu/dev-quick-overview-of-unity-stateful-ui-library-45e3ba58938d?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
