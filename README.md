@@ -34,7 +34,7 @@
 
 ![C#](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=csharp)
 ![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=Unity)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=Markdown)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)
 ![Prezi](https://img.shields.io/badge/-Prezi-05122A?style=flat&logo=Prezi)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)
 <br />
