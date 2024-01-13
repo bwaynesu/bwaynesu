@@ -64,11 +64,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] C# — 3 Small Tips: Tuples Swap Values, Switch Expression and Priority Queue](https://medium.com/@bwaynesu/til-c-3-small-tips-tuples-swap-values-switch-expression-and-priority-queue-767c31eae52c?source=rss-5e4e7a64353------2)
 - [[Reflection] My 2023](https://medium.com/@bwaynesu/reflection-my-2023-228dd090024c?source=rss-5e4e7a64353------2)
 - [[Tools] Everyday English Learning Resources](https://medium.com/@bwaynesu/tools-everyday-english-learning-resources-25fecd7073f0?source=rss-5e4e7a64353------2)
 - [[TIL] C# - Observe GC with Action Parameters in Various Scenarios](https://medium.com/@bwaynesu/til-c-observe-gc-with-action-parameters-in-various-scenarios-e323fc5a840b?source=rss-5e4e7a64353------2)
 - [[Dev] Unity StartCoroutine&lpar;&rpar; Extension: Execute Multiple Coroutines Simultaneously or Sequentially](https://medium.com/@bwaynesu/dev-unity-startcoroutine-extension-execute-multiple-coroutines-simultaneously-or-sequentially-91d3fb9e157c?source=rss-5e4e7a64353------2)
-- [[Tools] GitHub README Sync: Show Your Latest Medium Posts or YouTube Videos Automatically](https://medium.com/@bwaynesu/tools-github-readme-sync-show-your-latest-medium-posts-or-youtube-videos-automatically-97746cdf35e4?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
