@@ -16,6 +16,7 @@
       🎮 Video game enthusiast <br/>
       📚 Sharing knowledge & experiences <br/>
       😸 Loving cats! <br/>
+      📄 <a href="https://bwaynesu.itch.io/ui-cv?password=bb">Explore my interactive CV!</a> <br/>
     </td>
     <td align="center">
       <img height="200" alt="Hello!" src="Pics/BongoCat.gif" >
