@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] Unity — MonoBehaviour.Invoke&lpar;&rpar;](https://medium.com/@bwaynesu/til-unity-monobehaviour-invoke-54bd4c1078bf?source=rss-5e4e7a64353------2)
 - [[Tools] Enhance Unity Workflow with BShortcut — A Practical Asset from Our Team’s Toolkit](https://medium.com/@bwaynesu/tools-enhance-unity-workflow-with-bshortcut-a-practical-asset-from-our-teams-toolkit-ae29146b814e?source=rss-5e4e7a64353------2)
 - [[TIL] Unity - Solution for TMP Dynamic Font Display Issues](https://medium.com/@bwaynesu/til-unity-solution-for-tmp-dynamic-font-display-issues-adc90581eda0?source=rss-5e4e7a64353------2)
 - [[TIL] Unity Null Check](https://medium.com/@bwaynesu/til-unity-null-check-eb5609eb9bc9?source=rss-5e4e7a64353------2)
 - [[Tools] Unity — Delete Missing Script Components](https://medium.com/@bwaynesu/tools-unity-delete-missing-script-components-70fffba1ea8b?source=rss-5e4e7a64353------2)
-- [[TIL] C# — 3 Small Tips: Tuples Swap Values, Switch Expression and Priority Queue](https://medium.com/@bwaynesu/til-c-3-small-tips-tuples-swap-values-switch-expression-and-priority-queue-767c31eae52c?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
