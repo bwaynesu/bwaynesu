@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Dev] Azure Function App + PlayFab Cloud Scripts Development Notes](https://medium.com/@bwaynesu/dev-azure-function-app-playfab-cloud-scripts-development-notes-a979e0b28c25?source=rss-5e4e7a64353------2)
 - [[閱讀筆記] 下班當老闆](https://medium.com/@bwaynesu/%E9%96%B1%E8%AE%80%E7%AD%86%E8%A8%98-%E4%B8%8B%E7%8F%AD%E7%95%B6%E8%80%81%E9%97%86-706f33152eb2?source=rss-5e4e7a64353------2)
 - [[Reflection] Continuing the Discussion on Serving Others](https://medium.com/@bwaynesu/reflection-continuing-the-discussion-on-serving-others-9c78a0e5d312?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — MonoBehaviour.Invoke&lpar;&rpar;](https://medium.com/@bwaynesu/til-unity-monobehaviour-invoke-54bd4c1078bf?source=rss-5e4e7a64353------2)
 - [[Tools] Enhance Unity Workflow with BShortcut — A Practical Asset from Our Team’s Toolkit](https://medium.com/@bwaynesu/tools-enhance-unity-workflow-with-bshortcut-a-practical-asset-from-our-teams-toolkit-ae29146b814e?source=rss-5e4e7a64353------2)
-- [[TIL] Unity - Solution for TMP Dynamic Font Display Issues](https://medium.com/@bwaynesu/til-unity-solution-for-tmp-dynamic-font-display-issues-adc90581eda0?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
