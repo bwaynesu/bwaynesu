@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] C# — Sorting List/Array with Preserved Original Index Values](https://medium.com/@bwaynesu/til-c-sorting-list-array-with-preserved-original-index-values-05978fa8d707?source=rss-5e4e7a64353------2)
 - [[TIL] C# - Delegate Equality Based on Method Addition Order](https://medium.com/@bwaynesu/til-c-delegate-equality-based-on-method-addition-order-f0288b195e12?source=rss-5e4e7a64353------2)
 - [[Reflection] Review, Growth, Inheritance](https://medium.com/@bwaynesu/reflection-review-growth-inheritance-b72853e21223?source=rss-5e4e7a64353------2)
 - [[Dev] Azure Function App + PlayFab Cloud Scripts Development Notes](https://medium.com/@bwaynesu/dev-azure-function-app-playfab-cloud-scripts-development-notes-a979e0b28c25?source=rss-5e4e7a64353------2)
 - [[閱讀筆記] 下班當老闆](https://medium.com/@bwaynesu/%E9%96%B1%E8%AE%80%E7%AD%86%E8%A8%98-%E4%B8%8B%E7%8F%AD%E7%95%B6%E8%80%81%E9%97%86-706f33152eb2?source=rss-5e4e7a64353------2)
-- [[Reflection] Continuing the Discussion on Serving Others](https://medium.com/@bwaynesu/reflection-continuing-the-discussion-on-serving-others-9c78a0e5d312?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
