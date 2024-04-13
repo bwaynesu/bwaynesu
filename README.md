@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] Win10 — Resolving Mouse Trail Issue on Vertical Screen &lpar;Portrait Mode&rpar;](https://medium.com/@bwaynesu/til-win10-resolving-mouse-trail-issue-on-vertical-screen-portrait-mode-b4ffe0e2d695?source=rss-5e4e7a64353------2)
 - [How I Reduce Anxiety](https://medium.com/@bwaynesu/how-i-reduce-anxiety-fe127a9f3e20?source=rss-5e4e7a64353------2)
 - [[TIL] C# — Sorting List/Array with Preserved Original Index Values](https://medium.com/@bwaynesu/til-c-sorting-list-array-with-preserved-original-index-values-05978fa8d707?source=rss-5e4e7a64353------2)
 - [[TIL] C# - Delegate Equality Based on Method Addition Order](https://medium.com/@bwaynesu/til-c-delegate-equality-based-on-method-addition-order-f0288b195e12?source=rss-5e4e7a64353------2)
 - [[Reflection] Review, Growth, Inheritance](https://medium.com/@bwaynesu/reflection-review-growth-inheritance-b72853e21223?source=rss-5e4e7a64353------2)
-- [[Dev] Azure Function App + PlayFab Cloud Scripts Development Notes](https://medium.com/@bwaynesu/dev-azure-function-app-playfab-cloud-scripts-development-notes-a979e0b28c25?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
