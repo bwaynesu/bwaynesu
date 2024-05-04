@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Note] Interview Questions I’ve Encountered — Senior Unity Engineer &lpar;Part One&rpar;](https://medium.com/@bwaynesu/note-interview-questions-ive-encountered-senior-unity-engineer-part-one-ba5b733f5cd4?source=rss-5e4e7a64353------2)
 - [[Reflection] Mountains Are Mountains](https://medium.com/@bwaynesu/reflection-mountains-are-mountains-eafdfe99ccbd?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Capturing Transparent Character Images with Recorder](https://medium.com/@bwaynesu/til-unity-capturing-transparent-character-images-with-recorder-898199e26994?source=rss-5e4e7a64353------2)
 - [[TIL] Win10 — Resolving Mouse Trail Issue on Vertical Screen &lpar;Portrait Mode&rpar;](https://medium.com/@bwaynesu/til-win10-resolving-mouse-trail-issue-on-vertical-screen-portrait-mode-b4ffe0e2d695?source=rss-5e4e7a64353------2)
 - [How I Reduce Anxiety](https://medium.com/@bwaynesu/how-i-reduce-anxiety-fe127a9f3e20?source=rss-5e4e7a64353------2)
-- [[TIL] C# — Sorting List/Array with Preserved Original Index Values](https://medium.com/@bwaynesu/til-c-sorting-list-array-with-preserved-original-index-values-05978fa8d707?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
