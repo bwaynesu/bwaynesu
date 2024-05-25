@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] Unity — Disable Auto Compile When File Save in Visual Studio](https://medium.com/@bwaynesu/til-unity-disable-auto-compile-when-file-save-in-visual-studio-f538cb5da1e1?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Serialize Property](https://medium.com/@bwaynesu/til-unity-serialize-property-bffca63f4fce?source=rss-5e4e7a64353------2)
 - [[Note] Interview Questions I’ve Encountered — Senior Unity Engineer &lpar;Part Two&rpar;](https://medium.com/@bwaynesu/note-interview-questions-ive-encountered-senior-unity-engineer-part-two-78bb139b0aa9?source=rss-5e4e7a64353------2)
 - [[Note] Interview Questions I’ve Encountered — Senior Unity Engineer &lpar;Part One&rpar;](https://medium.com/@bwaynesu/note-interview-questions-ive-encountered-senior-unity-engineer-part-one-ba5b733f5cd4?source=rss-5e4e7a64353------2)
 - [[Reflection] Mountains Are Mountains](https://medium.com/@bwaynesu/reflection-mountains-are-mountains-eafdfe99ccbd?source=rss-5e4e7a64353------2)
-- [[TIL] Unity — Capturing Transparent Character Images with Recorder](https://medium.com/@bwaynesu/til-unity-capturing-transparent-character-images-with-recorder-898199e26994?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
