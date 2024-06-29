@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] Unity — Solving TMP Text Material Presets Not Displaying Newly Added Materials](https://medium.com/@bwaynesu/til-unity-solving-tmp-text-material-presets-not-displaying-newly-added-materials-8ea13ed9c046?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Assembly Definitions](https://medium.com/@bwaynesu/til-unity-assembly-definitions-34c4caa73b37?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Using FormerlySerializedAs to Avoid Data Loss When Renaming Fields](https://medium.com/@bwaynesu/til-unity-using-formerlyserializedas-to-avoid-data-loss-when-renaming-fields-f4200f9c214a?source=rss-5e4e7a64353------2)
 - [[Reflection] Rediscovering Life’s Rhythm](https://medium.com/@bwaynesu/reflection-rediscovering-lifes-rhythm-26dd5d5936e4?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — GetComponent Finds Interface](https://medium.com/@bwaynesu/til-unity-getcomponent-finds-interface-501748b92df5?source=rss-5e4e7a64353------2)
-- [[TIL] Unity — Disable Auto Compile When File Save in Visual Studio](https://medium.com/@bwaynesu/til-unity-disable-auto-compile-when-file-save-in-visual-studio-f538cb5da1e1?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
