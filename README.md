@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] Unity — MaterialPropertyBlock](https://medium.com/@bwaynesu/til-unity-materialpropertyblock-5c2765ecc318?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — RuntimeInitializeOnLoadMethod Attribute](https://medium.com/@bwaynesu/til-unity-runtimeinitializeonloadmethod-attribute-52af682e3086?source=rss-5e4e7a64353------2)
 - [[Dev] C# — Bidirectional Many-to-One Mapping](https://medium.com/@bwaynesu/dev-c-bidirectional-many-to-one-mapping-af88ff6f49ba?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Beware of TMP InputField Zero Width Characters](https://medium.com/@bwaynesu/til-unity-beware-of-tmp-inputfield-zero-width-characters-cdb271bc21f1?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Solving TMP Text Material Presets Not Displaying Newly Added Materials](https://medium.com/@bwaynesu/til-unity-solving-tmp-text-material-presets-not-displaying-newly-added-materials-8ea13ed9c046?source=rss-5e4e7a64353------2)
-- [[TIL] Unity — Assembly Definitions](https://medium.com/@bwaynesu/til-unity-assembly-definitions-34c4caa73b37?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
