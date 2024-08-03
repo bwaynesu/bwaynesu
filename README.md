@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[閱讀筆記] 改造生命的自我形象整容術](https://medium.com/@bwaynesu/%E9%96%B1%E8%AE%80%E7%AD%86%E8%A8%98-%E6%94%B9%E9%80%A0%E7%94%9F%E5%91%BD%E7%9A%84%E8%87%AA%E6%88%91%E5%BD%A2%E8%B1%A1%E6%95%B4%E5%AE%B9%E8%A1%93-88753b501775?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — MaterialPropertyBlock](https://medium.com/@bwaynesu/til-unity-materialpropertyblock-5c2765ecc318?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — RuntimeInitializeOnLoadMethod Attribute](https://medium.com/@bwaynesu/til-unity-runtimeinitializeonloadmethod-attribute-52af682e3086?source=rss-5e4e7a64353------2)
 - [[Dev] C# — Bidirectional Many-to-One Mapping](https://medium.com/@bwaynesu/dev-c-bidirectional-many-to-one-mapping-af88ff6f49ba?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Beware of TMP InputField Zero Width Characters](https://medium.com/@bwaynesu/til-unity-beware-of-tmp-inputfield-zero-width-characters-cdb271bc21f1?source=rss-5e4e7a64353------2)
-- [[TIL] Unity — Solving TMP Text Material Presets Not Displaying Newly Added Materials](https://medium.com/@bwaynesu/til-unity-solving-tmp-text-material-presets-not-displaying-newly-added-materials-8ea13ed9c046?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
