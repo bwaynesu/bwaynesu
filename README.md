@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Reflection] The Secret to Relieving Stress? Living in the Present!](https://medium.com/@bwaynesu/reflection-the-secret-to-relieving-stress-living-in-the-present-b43e0acfcb84?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Exploring the Execution Order of async Start&lpar;&rpar; and Update&lpar;&rpar;](https://medium.com/@bwaynesu/til-unity-exploring-the-execution-order-of-async-start-and-update-b8c234be9929?source=rss-5e4e7a64353------2)
 - [Unity — Using IAsyncEnumerable in Unity](https://medium.com/@bwaynesu/unity-using-iasyncenumerable-in-unity-db6d599cc530?source=rss-5e4e7a64353------2)
 - [[TIL] C# — The Evolution of Delegate, Event, EventHandler, and Action](https://medium.com/@bwaynesu/til-c-the-evolution-of-delegate-event-eventhandler-and-action-3cd9d9b08e4a?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Adding Separators in Inspector Enum Dropdown](https://medium.com/@bwaynesu/til-unity-adding-separators-in-inspector-enum-dropdown-de3167136f43?source=rss-5e4e7a64353------2)
-- [[TIL] Unity — Solving the Issue of Thin Outlines in TMP Text](https://medium.com/@bwaynesu/til-unity-solving-the-issue-of-thin-outlines-in-tmp-text-66cda36aeef7?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
