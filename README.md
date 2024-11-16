@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Tools] Unity — Playable Director Extension Part 2: Remove Unused Bindings &lpar;Without Reflection&rpar;](https://medium.com/@bwaynesu/tools-unity-playable-director-extension-part-2-remove-unused-bindings-without-reflection-f766f9ec61ea?source=rss-5e4e7a64353------2)
 - [[Tools] Unity — Playable Director Extension: Remove Unused Bindings](https://medium.com/@bwaynesu/tools-unity-playable-director-extension-remove-unused-bindings-101849456846?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — ContextMenuItem](https://medium.com/@bwaynesu/til-unity-contextmenuitem-1509390b9b48?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — SerializeReference](https://medium.com/@bwaynesu/til-unity-serializereference-20513b8076c2?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — EditorOnly Tag](https://medium.com/@bwaynesu/til-unity-editoronly-tag-8bb296e356fc?source=rss-5e4e7a64353------2)
-- [[TIL] Unity — MonoBehaviour Reset&lpar;&rpar;](https://medium.com/@bwaynesu/til-unity-monobehaviour-reset-87de3a58e8b3?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
