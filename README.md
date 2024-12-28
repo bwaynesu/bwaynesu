@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Reflections] When AI Reflects Ourselves](https://medium.com/@bwaynesu/reflections-when-ai-reflects-ourselves-8c4a9a5c8a05?source=rss-5e4e7a64353------2)
 - [[Reflection] Is It a Dream or a Curse?](https://medium.com/@bwaynesu/reflection-is-it-a-dream-or-a-curse-eda862a00730?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Introduction to R3 &lpar;UniRx&rpar;](https://medium.com/@bwaynesu/til-unity-introduction-to-r3-unirx-f8e0e663c49b?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Pay Attention to Generic Wrapping and Null Checks](https://medium.com/@bwaynesu/til-unity-pay-attention-to-generic-wrapping-and-null-checks-b66793448c3b?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Exploring WeakReference](https://medium.com/@bwaynesu/til-unity-exploring-weakreference-0183a2f13bae?source=rss-5e4e7a64353------2)
-- [[Tools] Unity — Playable Director Extension Part 2: Remove Unused Bindings &lpar;Without Reflection&rpar;](https://medium.com/@bwaynesu/tools-unity-playable-director-extension-part-2-remove-unused-bindings-without-reflection-f766f9ec61ea?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
