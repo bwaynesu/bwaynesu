@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] Unity — Switching TMP Font Asset and Material Asset Simultaneously with I2 Localization](https://medium.com/@bwaynesu/til-unity-switching-tmp-font-asset-and-material-asset-simultaneously-with-i2-localization-02b7fefeac24?source=rss-5e4e7a64353------2)
 - [[Life] The Day We Spent in the Hospital](https://medium.com/@bwaynesu/life-the-day-we-spent-in-the-hospital-a69b8ddff3d8?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Introduction to UniTask](https://medium.com/@bwaynesu/til-unity-introduction-to-unitask-3041ecbfe45a?source=rss-5e4e7a64353------2)
 - [[TIL] Unity - Unable to Reference a Package](https://medium.com/@bwaynesu/til-unity-unable-to-reference-a-package-eeea344becef?source=rss-5e4e7a64353------2)
 - [[Reflection] My 2024](https://medium.com/@bwaynesu/reflection-my-2024-abdd9dba3b5a?source=rss-5e4e7a64353------2)
-- [[Reflections] When AI Reflects Ourselves](https://medium.com/@bwaynesu/reflections-when-ai-reflects-ourselves-8c4a9a5c8a05?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
