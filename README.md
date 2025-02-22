@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] Unity — Official Localization Tool Part 2: Resource Replacement](https://medium.com/@bwaynesu/til-unity-official-localization-tool-part-2-resource-replacement-94fcd99cc6b3?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Official Localization Tool: Installation and Basic Usage](https://medium.com/@bwaynesu/til-unity-official-localization-tool-installation-and-basic-usage-e54f5cfbe4c9?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Switching TMP Font Asset and Material Asset Simultaneously with I2 Localization](https://medium.com/@bwaynesu/til-unity-switching-tmp-font-asset-and-material-asset-simultaneously-with-i2-localization-02b7fefeac24?source=rss-5e4e7a64353------2)
 - [[Life] The Day We Spent in the Hospital](https://medium.com/@bwaynesu/life-the-day-we-spent-in-the-hospital-a69b8ddff3d8?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Introduction to UniTask](https://medium.com/@bwaynesu/til-unity-introduction-to-unitask-3041ecbfe45a?source=rss-5e4e7a64353------2)
-- [[TIL] Unity - Unable to Reference a Package](https://medium.com/@bwaynesu/til-unity-unable-to-reference-a-package-eeea344becef?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
