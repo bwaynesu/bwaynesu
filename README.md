@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Thoughts] Does AI Make Me Stronger, or Is It Taking Something Away from Me?](https://medium.com/@bwaynesu/thoughts-does-ai-make-me-stronger-or-is-it-taking-something-away-from-me-e6c7b2ce7cd1?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Updating UI Layout When Content Changes](https://medium.com/@bwaynesu/til-unity-updating-ui-layout-when-content-changes-02a8e5d7ce6b?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Official Localization Tool Part 4: Exporting Tables for Collaborative Editing](https://medium.com/@bwaynesu/til-unity-official-localization-tool-part-4-exporting-tables-for-collaborative-editing-edb0125749a6?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Official Localization Tool Part 3: Smart Strings](https://medium.com/@bwaynesu/til-unity-official-localization-tool-part-3-smart-strings-3044b8b18ba5?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Official Localization Tool Part 2: Resource Replacement](https://medium.com/@bwaynesu/til-unity-official-localization-tool-part-2-resource-replacement-94fcd99cc6b3?source=rss-5e4e7a64353------2)
-- [[TIL] Unity — Official Localization Tool: Installation and Basic Usage](https://medium.com/@bwaynesu/til-unity-official-localization-tool-installation-and-basic-usage-e54f5cfbe4c9?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
