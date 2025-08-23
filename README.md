@@ -65,11 +65,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Tools] BNav — Unity UI Navigation with Group Management](https://medium.com/@bwaynesu/tools-bnav-unity-ui-navigation-with-group-management-de66763e5600?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Sprite Cropping Issue and Solution](https://medium.com/@bwaynesu/til-unity-sprite-cropping-issue-and-solution-a1fb93a39d05?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — Introduction to UI Toolkit VisualElement.schedule](https://medium.com/@bwaynesu/til-unity-introduction-to-ui-toolkit-visualelement-schedule-9ad52cd1a2e4?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — The ClickEvent Trap in UI Toolkit’s ListView](https://medium.com/@bwaynesu/til-unity-the-clickevent-trap-in-ui-toolkits-listview-077514ab9e2c?source=rss-5e4e7a64353------2)
 - [[Tools] Unity — From BShortcut to BAssetDock: My journey to make finding assets less painful in…](https://medium.com/@bwaynesu/tools-unity-from-bshortcut-to-bassetdock-my-journey-to-make-finding-assets-less-painful-in-2fc8e37c7a69?source=rss-5e4e7a64353------2)
-- [[TIL] Unity — OnTransformChildrenChanged&lpar;&rpar;](https://medium.com/@bwaynesu/til-unity-ontransformchildrenchanged-f85906097e44?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
