@@ -53,10 +53,7 @@
 
 ## 📋 Stats
 <a href="https://github-readme-stats.vercel.app"><img width="44.3%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=bwaynesu&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/></a>
-<a href="https://github-readme-streak-stats.herokuapp.com"><img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bwaynesu&theme=onedark&hide_border=true"/></a>
-<!--<a href="https://github-readme-stats.vercel.app">
-  <img width="44.3%" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwaynesu&layout=compact&theme=onedark&custom_title=Most+Used+Languages&hide_border=true"/>
-</a>-->
+<a href="https://git.io/streak-stats"><img width="49%" alt="Streak Stats" src="https://streak-stats.demolab.com?user=bwaynesu&theme=onedark&hide_border=true"/></a>
 
 ## 🏆 Trophies
 
