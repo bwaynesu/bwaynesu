@@ -62,11 +62,11 @@
 ## ✒️ Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Tools] Unity — Custom AnimatorOverrideController Inspector: Fixing Refresh, Save, and Undo Issues](https://medium.com/@bwaynesu/tools-unity-custom-animatoroverridecontroller-inspector-fixing-refresh-save-and-undo-issues-dfa4eb3df70d?source=rss-5e4e7a64353------2)
 - [[Tools] BComponentComparator — Stop Repeatedly Switching Unity Inspector!](https://medium.com/@bwaynesu/tools-bcomponentcomparator-stop-repeatedly-switching-unity-inspector-686f3a8a2e2a?source=rss-5e4e7a64353------2)
 - [[TIL] Unity — A Complete Guide to Collision Detection: CharacterController vs Rigidbody](https://medium.com/@bwaynesu/til-unity-a-complete-guide-to-collision-detection-charactercontroller-vs-rigidbody-b9f38296064d?source=rss-5e4e7a64353------2)
 - [[閒聊] 別再用加班「偽造」準時：專案時程扭曲的真相](https://medium.com/@bwaynesu/%E9%96%92%E8%81%8A-%E5%88%A5%E5%86%8D%E7%94%A8%E5%8A%A0%E7%8F%AD-%E5%81%BD%E9%80%A0-%E6%BA%96%E6%99%82-%E5%B0%88%E6%A1%88%E6%99%82%E7%A8%8B%E6%89%AD%E6%9B%B2%E7%9A%84%E7%9C%9F%E7%9B%B8-e7ea28a99d9b?source=rss-5e4e7a64353------2)
 - [[Tools] BNav — Unity UI Navigation with Group Management](https://medium.com/@bwaynesu/tools-bnav-unity-ui-navigation-with-group-management-de66763e5600?source=rss-5e4e7a64353------2)
-- [[TIL] Unity — Sprite Cropping Issue and Solution](https://medium.com/@bwaynesu/til-unity-sprite-cropping-issue-and-solution-a1fb93a39d05?source=rss-5e4e7a64353------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- https://loading.io/background/m-wave/ -->
