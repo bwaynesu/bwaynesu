@@ -52,12 +52,12 @@
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)
 
 ## 📋 Stats
-<a href="https://github-readme-stats.vercel.app"><img width="44.3%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=bwaynesu&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/></a>
-<a href="https://git.io/streak-stats"><img width="49%" alt="Streak Stats" src="https://streak-stats.demolab.com?user=bwaynesu&theme=onedark&hide_border=true"/></a>
+<a href="https://github-readme-stats-fast.vercel.app"><img width="44.3%" alt="Stats" src="https://github-readme-stats-fast.vercel.app/api?&count_private=true&include_all_commits=true&username=bwaynesu&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/></a>
+<a href="https://github-readme-stats-fast.vercel.app"><img width="49%" alt="Streak Stats" src="https://github-readme-stats-fast.vercel.app/api/streak?username=bwaynesu&theme=onedark&hide_border=true"/></a>
 
 ## 🏆 Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img width="45%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=bwaynesu&row=2&column=4&theme=onedark&no-frame=true"/></a>
+<a href="https://github-profile-trophy-fork-two.vercel.app"><img width="45%" alt="Trophy" src="https://github-profile-trophy-fork-two.vercel.app/?username=bwaynesu&row=2&column=4&theme=onedark&no-frame=true"/></a>
 
 ## ✒️ Medium Posts
 
