@@ -57,7 +57,7 @@
 
 ## 🏆 Trophies
 
-<a href="https://github-profile-trophy-fork-two.vercel.app"><img width="45%" alt="Trophy" src="https://github-profile-trophy-fork-two.vercel.app/?username=bwaynesu&row=2&column=4&theme=onedark&no-frame=true"/></a>
+<a href="https://github-trophies.devomb.com"><img width="45%" alt="Trophy" src="https://github-trophies.devomb.com/?username=bwaynesu&row=2&column=4&theme=onedark&no-frame=true"/></a>
 
 ## ✒️ Medium Posts
 
