@@ -1,8 +1,8 @@
 ## 💬 About Me
 
-<a href="mailto:bwaynesu.dev@gmail.com" alt="bwaynesu.dev@gmail.com"><img src="https://img.shields.io/badge/-✉️Email-c46a4c?style=flat-square&logo=email" /></a>
+<a href="mailto:bwaynesu.dev@gmail.com" alt="bwaynesu.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-c46a4c?style=flat-square&logo=email" /></a>
 <a href="https://linkedin.com/in/wayne-su-94804186" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-437ebc?style=flat-square&logo=linkedin" /></a>
-· 🌐 **[Portfolio](https://bwaynesu.github.io/portfolio)**
+<a href="https://bwaynesu.github.io/portfolio/" alt="Portfolio"><img src="https://img.shields.io/badge/-Portfolio-2E7D32?style=flat-square" /></a>
 
 <table style="border:none">
   <tr>
