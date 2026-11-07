@@ -27,6 +27,10 @@
     <td><b><a href="https://store.steampowered.com/app/2323140/Ringash/">Ringash</a></b> (contributing developer)<br>Top-down 3D action RPG. Steam demo available.</td>
   </tr>
   <tr>
+    <td width="200"><a href="https://youtu.be/ucg_tkJpu4o"><img src="Pics/MyRacingProjects.jpg" width="200" alt="Racing Game Projects"></a></td>
+    <td><b><a href="https://youtu.be/ucg_tkJpu4o">Racing Game Projects (video)</a></b><br>Arcade racing games I worked on.</td>
+  </tr>
+  <tr>
     <td width="200"><a href="https://youtu.be/V4yRcF8-SNQ"><img src="Pics/works/BAssetDock.jpg" width="200" alt="BAssetDock"></a></td>
     <td><b><a href="https://u3d.as/3vZn">BAssetDock</a></b><br>Group assets by task instead of digging through the Project window. Open-source predecessor: <a href="https://github.com/bwaynesu/BShortcut">BShortcut</a> <br><img src="https://img.shields.io/github/stars/bwaynesu/BShortcut?style=flat-square" alt="Stars"></td>
   </tr>
@@ -61,12 +65,6 @@
 
 </details>
 <!-- WORKS:END -->
-
-<p align="center">
-  <a href="https://youtu.be/ucg_tkJpu4o">
-  <img height="200" alt="My Racing Projects" src="Pics/MyRacingProjects.jpg"/>
-  </a>
-</p>
 
 ## 📝 Featured Tool Articles
 
