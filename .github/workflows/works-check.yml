@@ -1,0 +1,59 @@
+name: Works list check
+on:
+  schedule:
+    - cron: "0 1 * * 0" # Sunday 09:00 Asia/Taipei
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+concurrency:
+  group: works-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    name: Compare public repos with README and portfolio lists
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      OWNER: bwaynesu
+      LABEL: works-check
+      TITLE: "作品清單檢查：有 repo 漏列或連結失效"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Self-check parser
+        run: bash .github/scripts/works-check.test.sh
+      - name: Compare lists
+        id: cmp
+        run: |
+          set -euo pipefail
+          gh repo list "$OWNER" --visibility public --limit 1000 --json name,isFork,isArchived \
+            --jq '.[] | [.name, .isFork, .isArchived] | @tsv' > repos.tsv
+          gh api "repos/$OWNER/portfolio/contents/gitprofile.config.ts" -H 'Accept: application/vnd.github.raw' > config.ts
+          rc=0
+          bash .github/scripts/works-check.sh README.md config.ts repos.tsv > body.md || rc=$?
+          case $rc in 0|10) ;; *) exit 1 ;; esac # parse failure or unexpected error: fail loudly, leave the issue alone
+          cat body.md >> "$GITHUB_STEP_SUMMARY"
+          echo "bad=$rc" >> "$GITHUB_OUTPUT"
+      - name: Open, update or close the issue
+        env:
+          BAD: ${{ steps.cmp.outputs.bad }}
+        run: |
+          set -euo pipefail
+          # Plain assignment so a gh failure stops the run instead of looking like "no issue yet".
+          found=$(gh issue list --label "$LABEL" --state all --limit 1 --json number,state --jq '.[0] // empty | "\(.number) \(.state)"')
+          num=""; state=""
+          read -r num state <<< "$found" || true
+          if [ "$BAD" = 10 ]; then
+            if [ -z "$num" ]; then
+              gh label create "$LABEL" --color FBCA04 --description "Weekly works list check" --force
+              gh issue create --title "$TITLE" --label "$LABEL" --body-file body.md
+            else
+              gh issue edit "$num" --title "$TITLE" --body-file body.md
+              [ "$state" = OPEN ] || gh issue reopen "$num" --comment "本週又有漏列或失效連結，內文已更新。"
+            fi
+          elif [ -n "$num" ] && [ "$state" = OPEN ]; then
+            gh issue close "$num" --comment "本週檢查兩份清單都對上了，自動關閉。"
+          fi
